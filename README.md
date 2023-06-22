@@ -1,4 +1,4 @@
-# Battleship Game
+# Simple Form with basic security
 
 This is simple showcase project written in PHP 8.x using plain HTML and PHP
 
